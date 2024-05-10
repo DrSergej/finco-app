@@ -1,0 +1,9 @@
+.input-number-field {
+    width: 100%;
+}
+#input-amount {
+    background-image: url("../../../public/images/dollar.svg");
+    background-repeat: no-repeat;
+    background-position: left 14px top 22px;
+    padding-left: 35px;
+}
