@@ -38,7 +38,7 @@ const Avatar = ({ token }) => {
 		<Link to="/account">
 			<img
 				className="avatar-pic box-shadow"
-				src={`${imgPath}${profile.profilePicture}.jpg`}
+				src={`${imgPath}${profile.profilePicture}`}
 				alt="Avatar-pic"
 			/>
 		</Link>
